@@ -1,2 +1,5 @@
 # 4040CourseProject
-BinaryConnect Neural Network
+
+Reproduce the result of BinaryConnect Neural Network
+
+Language: Python, TensorFlow
